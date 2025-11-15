@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "flashcards-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "07b80856-0503-4a7c-b95d-e72d6830e039",
+      "database_name": "flashcards-app"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
